@@ -11,5 +11,5 @@
 - Data Structure
 - etc...
 
-## How to update? (작성예시)
+## How to ssgtudy? (작성예시)
 
