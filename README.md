@@ -12,4 +12,4 @@
 - etc...
 
 ## How to ssgtudy? (작성예시)
-
+- dagchigo hayo
