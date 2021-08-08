@@ -1,6 +1,6 @@
 # dagchigo-ssgtudy
 
-## About
+## About(설명)
 
 
 ### Members
@@ -11,5 +11,5 @@
 - Data Structure
 - etc...
 
-## How to update?
+## How to update? (작성예시)
 
