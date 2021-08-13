@@ -15,6 +15,7 @@
 - 데이터베이스
 - 디자인 패턴
 - 데이터 통신
+- 소
 - Language/Library
 - CSS
 - etc...
