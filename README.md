@@ -11,7 +11,7 @@
 - Data Structure
 - etc...
 
-## How to ssgtudy? (작성예시)
+## How to ssgtudy?
 Step 1. dagchigo Doing
 
 Step 2. whatever PR!
