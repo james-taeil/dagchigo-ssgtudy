@@ -12,4 +12,8 @@
 - etc...
 
 ## How to ssgtudy? (작성예시)
-- dagchigo hayo
+Step 1. dagchigo Doing
+
+Step 2. whatever PR!
+
+Step 3. Review over the weekend
