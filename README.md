@@ -9,7 +9,7 @@
 
 ## Table of Contents
 - Algorithm
-- Data Structure
+- Data Structure (https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Data%20Structure)
 - 네트워크
 - 운영체제
 - 데이터베이스
