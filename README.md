@@ -20,7 +20,7 @@
 - CSS
 - etc...
   
-## Algorithm(알고리즘)
+## algorithm(알고리즘)
 알고리즘 기본. 
 시간복잡도와 공간복잡도. 
 완전 탐색 알고리즘 (Brute Force). 
