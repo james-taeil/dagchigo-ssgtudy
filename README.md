@@ -8,15 +8,15 @@
 ## Table of Contents
 - [algorithm(알고리즘)](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/blob/main/README.md#algorithm%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [data-structure(자료구조)](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/blob/main/README.md#data-structure%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-- [네트워크]()
-- 운영체제
-- 데이터베이스
-- 디자인 패턴
-- 데이터 통신
-- 소프트웨어 공학
-- Language/Library
-- CSS
-- etc...
+- [네트워크](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+- [운영체제](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+- [데이터베이스]()
+- [디자인 패턴]()
+- [데이터 통신]()
+- [소프트웨어 공학](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
+- [Language/Library](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#languagelibrary)
+- [CSS](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#css)
+- [etc...](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#etc)
 <br />
 
 ---
@@ -60,9 +60,30 @@
 - [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
+## 데이터베이스
+
+### [ 💻  &nbsp;데이터베이스 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+>> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## 디자인 패턴
+
+### [ 💻  &nbsp;디자인 패턴 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
+>> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## 데이터 통신
+
+### [ 💻  &nbsp;데이터 통신 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0)
+>> * 인증보안
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
 ## 소프트웨어 공학
 
-### [ 💻  &nbsp;Language/소프트웨어 공학 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
+### [ 💻  &nbsp;소프트웨어 공학 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
 >> * 수정 필요
 - [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
