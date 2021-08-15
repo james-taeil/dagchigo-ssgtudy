@@ -8,8 +8,8 @@
 
 
 ## Table of Contents
-- Algorithm
-- [Data Structure](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Data%20Structure)
+- [algorithm(알고리즘)](#algorithm(알고리즘))
+- [data-structure(자료구조)](#data-structure(자료구조))
 - 네트워크
 - 운영체제
 - 데이터베이스
@@ -19,6 +19,10 @@
 - Language/Library
 - CSS
 - etc...
+
+## Algorithm(알고리즘)
+
+## data-structure(자료구조)
 
 ## How to ssgtudy?
 Step 1. dagchigo Doing
