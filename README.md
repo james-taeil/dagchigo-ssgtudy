@@ -19,34 +19,6 @@
 - Language/Library
 - CSS
 - etc...
-
-
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-v
-  
-  
   
 ## Algorithm(알고리즘)
 
