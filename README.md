@@ -30,7 +30,7 @@
 >> * DFS
 >> * BFS
 <br />
--[목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#table-of-contents)
+- [목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
 ## data structure(자료구조)
@@ -45,7 +45,7 @@
 >> * 그래프 Graph
 >> * 해시 테이블 Hash Table
 <br />
--[목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#table-of-contents)
+- [목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
 ## How to ssgtudy?
