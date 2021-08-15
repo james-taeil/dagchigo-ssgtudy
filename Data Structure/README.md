@@ -1,5 +1,7 @@
 # Data Structure
 
+## About
+
 ## Table of Contents
 
 - 배열 Array
