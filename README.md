@@ -25,17 +25,16 @@
 ---
 ## algorithm(알고리즘)
 
-### [ 💻  알고리즘 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Algorithm#algorithm)
+### [ 💻  &nbsp;알고리즘 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Algorithm#algorithm)
 > ### 기본 알고리즘
 >> * DFS
 >> * BFS
-<br />
-- [목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
 ## data structure(자료구조)
 
-### [ 💻  자료구조 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Data%20Structure#data-structure)
+### [ 💻  &nbsp;자료구조 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Data%20Structure#data-structure)
 > ### 기본 자료구조
 >> * 배열 Array
 >> * 스택 Stack & 큐 Queue
@@ -44,8 +43,7 @@
 >> * 트리 Tree
 >> * 그래프 Graph
 >> * 해시 테이블 Hash Table
-<br />
-- [목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
 ## How to ssgtudy?
