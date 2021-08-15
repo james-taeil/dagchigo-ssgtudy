@@ -8,7 +8,7 @@
 ## Table of Contents
 - [algorithm(알고리즘)](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/blob/main/README.md#algorithm%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [data-structure(자료구조)](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/blob/main/README.md#data-structure%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-- 네트워크
+- [네트워크]()
 - 운영체제
 - 데이터베이스
 - 디자인 패턴
@@ -43,6 +43,20 @@
 >> * 트리 Tree
 >> * 그래프 Graph
 >> * 해시 테이블 Hash Table
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## 네트워크
+
+### [ 💻  &nbsp;네트워크](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+>> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## 운영체제
+
+### [ 💻  &nbsp;운영체제](운영체제)
+>> * 수정 필요
 - [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
