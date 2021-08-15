@@ -22,7 +22,7 @@
   
 ## algorithm(알고리즘)
 
-### 알고리즘 폴더로
+### [알고리즘 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Algorithm#algorithm)
 
 알고리즘 기본. 
 시간복잡도와 공간복잡도. 
