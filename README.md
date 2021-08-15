@@ -8,8 +8,8 @@
 
 
 ## Table of Contents
-- [algorithm(알고리즘)](#algorithm(알고리즘))
-- [data-structure(자료구조)](#data-structure(자료구조))
+- [algorithm(알고리즘)](#algorithm-알고리즘)
+- [data-structure(자료구조)](#data-structure-자료구조)
 - 네트워크
 - 운영체제
 - 데이터베이스
