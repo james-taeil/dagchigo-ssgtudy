@@ -4,8 +4,6 @@
 예비 개발자들이 모여 알고리즘과 CS 필수 지식을 공부하고 기록하는 공간입니다.💻  
 매주 스터디에서 진행된 발표 자료 및 소통의 흔적을 글로 정리하여 업로드하려고 합니다. 무조건 잘될겁니다.😁
 
-### Members
-
 
 ## Table of Contents
 - [algorithm(알고리즘)](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/blob/main/README.md#algorithm%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
@@ -19,7 +17,12 @@
 - Language/Library
 - CSS
 - etc...
+<br />
+
+---
+## Members
   
+---
 ## algorithm(알고리즘)
 
 ### [ 💻  알고리즘 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Algorithm#algorithm)
@@ -27,6 +30,7 @@
 >> * DFS
 >> * BFS
 <br />
+-[목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#table-of-contents)
 
 ---
 ## data structure(자료구조)
@@ -41,6 +45,7 @@
 >> * 그래프 Graph
 >> * 해시 테이블 Hash Table
 <br />
+-[목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#table-of-contents)
 
 ---
 ## How to ssgtudy?
