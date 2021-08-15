@@ -22,27 +22,25 @@
   
 ## algorithm(알고리즘)
 
-### [알고리즘 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Algorithm#algorithm)
+### [ 💻  알고리즘 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Algorithm#algorithm)
+> ### 기본 알고리즘
+>> * DFS
+>> * BFS
+<br />
 
-알고리즘 기본. 
-시간복잡도와 공간복잡도. 
-완전 탐색 알고리즘 (Brute Force). 
-DFS와 BFS. 
-순열, 조합, 부분집합. 
-백트래킹 (Backtracking). 
-분할 정복법 (Divide and Conquer). 
-탐욕 알고리즘 (Greedy). 
-동적 계획법 (Dynamic Programming). 
-알고리즘 응용. 
-정렬 알고리즘. 
-그래프. 
-최단 경로 알고리즘. 
-Union Find & Kruskal. 
-두 포인터 (two-pointer). 
-문자열 처리 알고리즘. 
-KMP 알고리즘. 
 ---
 ## data structure(자료구조)
+
+### [ 💻  자료구조 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Data%20Structure#data-structure)
+> ### 기본 자료구조
+>> * 배열 Array
+>> * 스택 Stack & 큐 Queue
+>> * 연결 리스트 Linked List
+>> * 힙 Heap
+>> * 트리 Tree
+>> * 그래프 Graph
+>> * 해시 테이블 Hash Table
+<br />
 
 ---
 ## How to ssgtudy?
