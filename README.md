@@ -22,7 +22,7 @@
   
 ## Algorithm(알고리즘)
 
-## data-structure(자료구조)
+## data structure(자료구조)
 
 ## How to ssgtudy?
 Step 1. dagchigo Doing
