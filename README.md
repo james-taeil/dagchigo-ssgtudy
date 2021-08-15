@@ -48,15 +48,45 @@
 ---
 ## 네트워크
 
-### [ 💻  &nbsp;네트워크](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+### [ 💻  &nbsp;네트워크 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 >> * 수정 필요
 - [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
 ## 운영체제
 
-### [ 💻  &nbsp;운영체제](운영체제)
+### [ 💻  &nbsp;운영체제 폴더로](운영체제)
 >> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## 소프트웨어 공학
+
+### [ 💻  &nbsp;Language/소프트웨어 공학 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99)
+>> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## Language/Library
+
+### [ 💻  &nbsp;Language/Library 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/Language%5CLibrary#languagelibrary)
+>> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## CSS
+
+### [ 💻  &nbsp;CSS 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/CSS#css)
+>> * 수정 필요
+- [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
+
+---
+## etc...
+
+### [ 💻  &nbsp;etc 폴더로](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/tree/main/%EA%B7%B8%20%EC%99%B8#etc)
+>> * IT 이슈
+>> * 면접에서 받은 질문
+>> * 유용한 사이트
 - [⬆️ &nbsp;목차로 돌아가기](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy#about%EC%84%A4%EB%AA%85)
 
 ---
