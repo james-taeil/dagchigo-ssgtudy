@@ -8,7 +8,7 @@
 
 
 ## Table of Contents
-- [algorithm(알고리즘)](#algorithm-알고리즘)
+- [algorithm(알고리즘)](https://github.com/dagchigo-ssgtudy/dagchigo-ssgtudy/blob/main/README.md#algorithm%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [data-structure(자료구조)](#data-structure-자료구조)
 - 네트워크
 - 운영체제
